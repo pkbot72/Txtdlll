@@ -1,1 +1,1 @@
-worker: gunicorn app:app & python3 main.py
+worker: python 2.0.2
